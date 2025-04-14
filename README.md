@@ -1,1 +1,1 @@
-# ML Project for Copenhagen Business School - Machine Learning / Deep Learning
+# ML Projectfor Business School - Machine Learning / Deep Learning
